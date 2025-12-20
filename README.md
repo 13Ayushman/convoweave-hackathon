@@ -5,6 +5,10 @@ Convo‑Weave is a real‑time biometric intelligence platform that bridges the 
 
 Built for the Cosmos Hackathon 🚀
 
+## 🚀 Try It Out
+
+[**Click here to try the project directly**](https://convoweave-v2.vercel.app/)
+
 🚀 Key Features
 🧠 Biometric Intelligence Feed
 Real‑time facial expression analysis using MediaPipe
